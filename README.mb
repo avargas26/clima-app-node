@@ -1,0 +1,8 @@
+## Aplicación del clime - Curso node
+
+Recuerden ejecutar npm install para lib
+
+###Ejemplo
+```
+node app -d "San jose Costa Rica"
+```
